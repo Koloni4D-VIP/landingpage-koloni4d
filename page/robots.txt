@@ -1,0 +1,5 @@
+User-agent: *
+Allow: /
+Disallow: /amp/img/
+
+Sitemap: https://login-koloni4d.pages.dev/sitemap.xml
